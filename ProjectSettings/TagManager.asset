@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Animal
+  - Plant
+  - BGM
+  - Ground
+  - Status
+  - ANimalContainer
+  - enemy
+  - CamEdge
+  - Scarecrow
+  - ScareCrowItem
+  - SFX
+  - Left
+  - Right
+  - Seed
+  - UI
+  - PlantStatus
+  - Buy
+  - PlanStatus
+  - Credit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Plant
+  - Status
+  - Coop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2252260213
+    locked: 0
+  - name: Ground
+    uniqueID: 2429758069
+    locked: 0
+  - name: Object
+    uniqueID: 4219552271
+    locked: 0
+  - name: Player
+    uniqueID: 3980204243
+    locked: 0
+  - name: Status
+    uniqueID: 2358676675
+    locked: 0
+  - name: Enemy
+    uniqueID: 1947500477
+    locked: 0
+  - name: BGOpacity70
+    uniqueID: 2775898537
+    locked: 0
