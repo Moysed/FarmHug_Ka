@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cfb46e2578f494b339fd60e6036a9865
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - volumeSlider: {fileID: 7892252682540564440, guid: ed6229049ffe1494a879f6b35da14cd8, type: 3}
+  - ObjMusic: {fileID: 3569237261299487136, guid: 344f4cc99e3b14812bfe023af4f5d049, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
