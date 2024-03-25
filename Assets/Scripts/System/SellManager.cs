@@ -20,10 +20,12 @@ public class SellManager : MonoBehaviour
     public void AutoSell()
     {
         sellTime += Time.deltaTime;
-        if (sellTime >= 45)
+        if (sellTime >= 30)
         {
             sellTime = 0;
             sfx.PlaySFX(sfx.Sold);
         }
+
+       
     }
 }
