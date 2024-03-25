@@ -72,15 +72,15 @@ public class TouchIdentifier : MonoBehaviour
 
         if (collision.tag == "Plant")
         {
-            PlantStatus _tempPlantStatus = collision.GetComponentInParent<PlantStatus>();
+            BaseStatus status = collision.GetComponentInParent<BaseStatus>();
 
-            if (_tempPlantStatus.collectCheck)
+            if (status.collectCheck)
             {
-                if(PlayerScript.singleton.onAnimrun == false)
+                if (PlayerScript.singleton.onAnimrun == false)
                 {
-                        GroundMangement.singleton._tempPlantStatus.Collected();
+                    GroundMangement.singleton._tempPlantStatus.Collected();
                 }
-                _tempPlantStatus.collectCheck = false;
+                status.collectCheck = false;
             }
         }
 
