@@ -9313,7 +9313,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fa06a3b31f1d4ed5b044936e431e565, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxTime: 45
+  maxTime: 30
   sellTimeText: {fileID: 1658761118}
 --- !u!1001 &710333294
 PrefabInstance:
